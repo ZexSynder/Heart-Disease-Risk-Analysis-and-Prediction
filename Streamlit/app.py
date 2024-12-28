@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 # loading the trained model
-pickle_in = open('RandomForestClassifier.pkl', 'rb') 
+pickle_in = open('SVM.pkl', 'rb') 
 classifier = pickle.load(pickle_in)
 # Load the 
 with open('scaler.pkl', 'rb') as scaler_file:
