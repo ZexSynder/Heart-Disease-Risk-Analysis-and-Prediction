@@ -81,7 +81,7 @@ I use Random Forest, KNeighborsClassifier (KNN) and Support Vector Machine (SVM)
 - I'm still paying attention to the accuracy score as well since this metric is easier to interpret.
 - The model's performance was evaluated using metrics such as precision, recall, and F1-score.
 - I'm also using cross validation performance to estimated accuracy score for data validation with 5-folds.
-- In credit risk modeling, test performance is calculated using the AUC metrics.
+- In modeling, test performance is evaluated using AUC metrics.
 
 ![image](Image/14.png)
 
